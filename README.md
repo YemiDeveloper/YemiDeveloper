@@ -26,6 +26,9 @@ Some highlights of my work:
 - [**Resume Builder**](https://github.com/YemiDeveloper/DevResumeBuilder): I built a resume-building website using Next.js for frontend and backend, and integrated AI for automation.
 - [**Online Marketplace**](https://github.com/YemiDeveloper/Online-Marketplace): I built an online marketplace using JavaScript framework known as React and SQL for database management and integrated Stripe for payment.  
 - [**Website for Scouting Experts**](https://github.com/YemiDeveloper/ExpertScoutingFrontEnd): Using JavaScript, TailwindCSS, and Firebase, I built a website connecting top talents with talent seekers. 
+- [**Reachio - Business Automation Tool**](https://github.com/YemiDeveloper/Reachio-frontend): Reach.io was designed with modern React and TailwindCSS. It is a business automation tool designed to help business owners reach out to customers automatically via SMS and run campaigns efficiently.
+[**Reach.io - Backend**](https://github.com/YemiDeveloper/Reachio-Backend): Backend for Reachio. Built with Node.js, Express, and Prisma ORM, it manages user authentication, business operations, and provides secure API endpoints.
+
 And Many More...
 ---
 
