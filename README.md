@@ -5,9 +5,6 @@ I’m **Yemi**, a **Full Stack Developer & AI Automation Engineer** passionate a
 
 With experience in **frontend, backend, and AI-driven integrations**, I craft solutions that combine clean interfaces, robust server logic, and seamless automation to create efficient end-to-end systems.
 
-- 🌍 **Location:** UTC+1  
-- 📧 **Email:** yemifatoki78@gmail.com 
-
 ---
 
 ## 💻 What I Do
